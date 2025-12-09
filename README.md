@@ -9,15 +9,15 @@ Controls
 
 P1
 
-Move - WASD
-Punch (Mid Attack) - F
-Kick (High/Overhead Attack) - G
+Move - WASD | 
+Punch (Mid Attack) - F | 
+Kick (High/Overhead Attack) - G | 
 
 P2
 
-Move - Arrow keys
-Punch (Mid Attack) - J
-Kick (High/Overhead Attack) - K
+Move - Arrow keys | 
+Punch (Mid Attack) - J | 
+Kick (High/Overhead Attack) - K | 
 
 
 https://github.com/user-attachments/assets/7d1d71db-4380-41af-ac7a-19cbdf651c78
